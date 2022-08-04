@@ -17,12 +17,12 @@ We will look at how different campaigns make out in relation to their launch dat
 ### Analysis of Outcomes Based on Launch Date
 
 Constructing a pivot table of campaign outcomes, based on which month of the year it was started, we can see all of the campaigns that fell into one of the three outcome categories - successful, failed, and canceled. Because we are interested in a particular category, we filtered the outcomes for the Theater category. For a visual representation of the trend, we constructed a line chart.
-! [Theater_Outcomes_vs_Launch](https://github.com/NadzeyaAudzeichuk/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/NadzeyaAudzeichuk/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 To analyze campaign outcomes based on funding goals, we created dollar-amount ranges with a step of 5,000 to group projects based on their goal amount. Using the COUTIFS() function and calculating respective percentages, we populated the number of successful, failed, and canceled projects for the Theater Plays category. To get a visual representation of the data, we constructed another line chart.
-! [Outcomes_vs_Goals](https://github.com/NadzeyaAudzeichuk/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/NadzeyaAudzeichuk/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
